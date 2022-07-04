@@ -1,2 +1,1 @@
-# iMessage_backend
-Backend code for project in my college
+# DS-Backend-Messenger-Android-App
